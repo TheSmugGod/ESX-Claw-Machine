@@ -1,5 +1,5 @@
-# qb-clawmachine
-Claw Machine with Prizes (QBCore) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
+# SmugGODs-ESX-ClawMachine
+Claw Machine with Prizes (ESX) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
 
 You can add as many prizes as you want in the config file
 
