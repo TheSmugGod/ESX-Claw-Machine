@@ -1,5 +1,5 @@
 # SmugGODs-ESX-ClawMachine
-Claw Machine with Prizes (ESX) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
+Claw Machine with Prizes (ESX) - Uses <a href = 'https://forum.cfx.re/t/free-ox-target/4915598'>ox-target</a>
 
 You can add as many prizes as you want in the config file
 
